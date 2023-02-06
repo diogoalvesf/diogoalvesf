@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Diogo Alves">
 
 <p align="left"> 
-  Olá, me chamo Diogo Alves, tenho 21 anos de idade, e atuo com desenvolvimento de software há 4 anos, atuo na área de<strong>Desenvolvimento Mobile</strong>.<br>
+  Tenho 21 anos de idade, trabalho com desenvolvimento de software há 4 anos, atuo na área de <strong>Desenvolvimento Mobile</strong>.<br>
   Atualmente trabalhando na empresa MK Solutions.
 </p>
 
