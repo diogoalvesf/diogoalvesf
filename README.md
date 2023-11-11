@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <p align="left"> 
-  I'm 21 years old, I've been working with software development for 4 years, I work in the area of ​​<strong>Mobile Development</strong.<br>
+  I'm 21 years old, I've been working with software development for 4 years, I work in the area of ​​<strong>Mobile Development</strong>.<br>
   Currently working at the company MK Solutions.
 </p>
 
